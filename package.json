@@ -9,5 +9,23 @@
     "prettier-plugin-organize-imports": "^3.2.1",
     "prettier-plugin-svelte": "^2.8.1",
     "prettier-plugin-tailwindcss": "^0.2.1"
-  }
+  },
+  "name": "inertia-fork",
+  "description": "[![Inertia.js](https://raw.githubusercontent.com/inertiajs/inertia/master/.github/LOGO.png)](https://inertiajs.com/)",
+  "version": "1.0.0",
+  "main": "prettier.config.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axel-paillaud/inertia.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axel-paillaud/inertia/issues"
+  },
+  "homepage": "https://github.com/axel-paillaud/inertia#readme"
 }
