@@ -10,7 +10,7 @@
     "prettier-plugin-svelte": "^2.8.1",
     "prettier-plugin-tailwindcss": "^0.2.1"
   },
-  "name": "inertia-fork",
+  "name": "inertia-fix-scroll",
   "description": "[![Inertia.js](https://raw.githubusercontent.com/inertiajs/inertia/master/.github/LOGO.png)](https://inertiajs.com/)",
   "version": "1.0.0",
   "main": "prettier.config.js",
