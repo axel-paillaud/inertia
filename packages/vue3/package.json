@@ -1,5 +1,5 @@
 {
-  "name": "@inertiajs/vue3",
+  "name": "@inertiajs-fix-scroll/vue3",
   "version": "1.0.14",
   "license": "MIT",
   "description": "The Vue 3 adapter for Inertia.js",
@@ -9,7 +9,7 @@
   "homepage": "https://inertiajs.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/inertiajs/inertia.git",
+    "url": "git+https://github.com/inertiajs/inertia.git",
     "directory": "packages/vue3"
   },
   "bugs": {
@@ -59,5 +59,6 @@
     "@inertiajs/core": "1.0.14",
     "lodash.clonedeep": "^4.5.0",
     "lodash.isequal": "^4.5.0"
-  }
+  },
+  "author": ""
 }
