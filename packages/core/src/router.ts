@@ -100,7 +100,6 @@ export class Router {
       typeof (event.target as Element).hasAttribute === 'function' &&
       (event.target as Element).hasAttribute('scroll-region')
     ) {
-      console.log("hello from handleScrollEvent");
       this.saveScrollPositions()
     }
   }
