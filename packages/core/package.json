@@ -1,5 +1,5 @@
 {
-  "name": "@inertiajs-fix-scroll/core",
+  "name": "inertiajs-fix-scroll/core",
   "version": "1.0.14",
   "license": "MIT",
   "description": "A framework for creating server-driven single page apps.",
