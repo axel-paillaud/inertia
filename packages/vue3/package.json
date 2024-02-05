@@ -1,5 +1,5 @@
 {
-  "name": "inertiajs-fix-scroll-vue3",
+  "name": "@inertiajs-fix-scroll/vue3",
   "version": "1.0.14",
   "license": "MIT",
   "description": "The Vue 3 adapter for Inertia.js",
