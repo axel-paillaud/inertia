@@ -1,6 +1,6 @@
 {
   "name": "@inertiajs-fix-scroll/svelte",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "license": "MIT",
   "description": "The Svelte adapter for Inertia.js",
   "contributors": [
